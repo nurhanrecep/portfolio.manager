@@ -1,3 +1,3 @@
-# Portfolio Mmanager
+# Portfolio Manager
 
 Portfolio Management Application
